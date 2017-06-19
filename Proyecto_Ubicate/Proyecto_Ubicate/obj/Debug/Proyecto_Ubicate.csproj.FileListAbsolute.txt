@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.dll.config
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.dll
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.pdb
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.dll
+c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.pdb

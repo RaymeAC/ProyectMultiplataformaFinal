@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Maestra.master.cs" Inherits="Proyecto_Ubicate.Maestra" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <link href="HojaStylo.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <header>
+            <img src="Imagenes/logo_Principal.jpg"/>
+        </header>
+        <nav id="navegator"> 
+            <a href="Home.aspx">Home</a>
+        </nav>
+        <section id="principal">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </section>
+        <aside id="lateral">
+
+        </aside>
+        <footer>&copy Ubicate</footer>
+    </div>
+    </form>
+</body>
+</html>
