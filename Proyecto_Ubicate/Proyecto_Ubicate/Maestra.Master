@@ -28,7 +28,7 @@
 				</div>
                 <div id="busqueda">
                     <div id="buscar">
-						<input id="pchdtext" type="text" placeholder=" Escribe oficina o palabra clave" />
+						<input id="pchdtext" type="text" placeholder=" Escriba oficina o palabra clave" />
                         <asp:Button ID="btn_buscar" runat="server" Text="Buscar" />
 					</div>
                 </div>
