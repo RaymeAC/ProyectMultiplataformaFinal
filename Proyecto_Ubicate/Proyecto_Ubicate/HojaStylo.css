@@ -1,10 +1,177 @@
-﻿body {
-    margin:auto;
+﻿/*------------------------Pagina principal Maestra-------------*/
+body {
     font-family:arial;
-    font-size:13px;
+    background-size:100% 100%;
+    margin-top:0px;
+}
+body * {
+    margin:5px;
+}
+#cuerpo {
+    width: 75%;
+    margin: auto;
+    background-color: #f7e8e8;
+    box-shadow: 0px 0px 30px #090909;
 }
 header {
     background:url();
 
 }
+#cabezera {
+    background: url(http://perucatolico.com/wp-content/uploads/2016/07/bandera-peru-catolico.jpg);
+    background-size:100%;
+    height:170px;
+}
+/*logo*/
+#logo {
+    float: left;
+    width: 30%;
+    text-align:center;
+}
 
+    #logo img {
+        width: 130px;
+        margin: 15px auto;
+    }
+/*logo*/
+/*regisro*/
+#registro {
+    float: right;
+    width: 30%;
+    margin-top: 20px;
+}
+
+    #registro .reg {
+        font-size: 17px;
+        float: right;
+        margin-top: 2px;
+        margin-right: 10px;
+    }
+
+.reg img {
+    width: 15px;
+    margin-bottom: 0px;
+}
+
+#redes {
+    width: 80%;
+}
+
+.redes {
+    float: right;
+    margin-top: 0px;
+}
+
+    .redes img {
+        width: 35px;
+        border-radius: 4px;
+    }
+/*busqueda*/
+#busqueda {
+    padding-top: 60px;
+    margin-left: 30%;
+    margin-right: 28%;
+    text-align: center;
+    height: 80px;
+    float:none;
+}
+
+#buscar {
+    padding-top: 25px;
+}
+
+#pchdtext {
+    width: 70%;
+    font-size:17px;
+}
+
+/*navegador*/
+a {
+    text-decoration: none;
+}
+
+#navegator {
+    background-color: #047ECE;
+    padding: 5px 0px;
+    border-radius: 5px;
+    margin: 0px 4px;
+}
+
+#navegator ul {
+    text-align: center;
+    padding: 2px;
+    margin: 0px;
+}
+#navegator ul li {
+    display: inline-block;
+    margin: 0px 70px;
+}
+
+#navegator ul li a {
+    font-size: 20px;
+    color: #fff;
+    margin: 0px 0px 2px 1px;
+}
+
+#navegator ul li img {
+    margin: 2px 2px 0px 0px;
+    width: 18px;
+}
+/*pies*/
+#pie_1 {
+    clear: both;
+    min-height: 220px;
+    background-image: url(img/lapiz.png);
+    background-size: 100% 100%;
+    margin: 0px;
+}
+
+#pie_left {
+    margin-top: 0px;
+    margin-left: 0px;
+    float: left;
+    width: 30%;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+#pie_right {
+    float: right;
+    width: 30%;
+    margin-top: 0px;
+    text-align: center;
+}
+
+#pie_center {
+    margin: 0px 38%;
+    margin-bottom: 0px;
+    text-align: center;
+}
+
+.fs li {
+    color: #0000FF;
+    list-style: none;
+    padding: 10px;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    font-size: 14px;
+}
+
+#pie_2 {
+    padding: 20px;
+    background-color: #0e1a46;
+    text-align: center;
+    margin: 0px;
+    color: #FFFFFF;
+    float:none;
+}
+.fim {
+    width: 30px;
+    margin-bottom: 0px;
+}
+
+.footerg {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+/*------------------------------------------------------*/

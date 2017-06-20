@@ -4,3 +4,9 @@ c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_
 c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.csprojResolveAssemblyReference.cache
 c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.dll
 c:\users\alumno\documents\visual studio 2013\Projects\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.pdb
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.dll.config
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.dll
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\bin\Proyecto_Ubicate.pdb
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.dll
+C:\Users\Luis\Documents\GitHub\ProyectMultiplataformaFinal\Proyecto_Ubicate\Proyecto_Ubicate\obj\Debug\Proyecto_Ubicate.pdb
