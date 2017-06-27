@@ -1,0 +1,63 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url() repeat scroll 00 rgba(0,0,0,0);
+    font-family: arial;
+}
+
+#wrapper {
+    box-shadow: 0 0 12px rgba(0,0,0,0.8);
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+}
+
+section {
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    margin: 0 auto;
+    max-width: 1440px;
+    overflow: hidden;
+    padding: 0;
+    position: relative;
+    width: 80%;
+}
+
+#bloque1 {
+    background-image: url(https://cdn.pastemagazine.com/www/system/images/photo_albums/dota-hero-rankings-1/large/107-dota-dragon-knight.jpg?1384968217);
+}
+
+#bloque2 {
+    background-image: url(https://image.redbull.com/rbcom/010/2016-02-17/1331777269055_1/0012/0/0/0/1200/1800/1500/1/lord-salforis-from-heroes-of-newerth.jpg);
+}
+
+#bloque3 {
+    background-image: url(http://2.bp.blogspot.com/-Ofu7Np8oLo8/VCzObTtt3QI/AAAAAAAAA7I/iNjw1m8ncbY/s1600/dota2-ember-spirit.jpg);
+}
+
+#bloque4 {
+    background-image: url();
+}
+
+h1 {
+    background-color: #02223a;
+    bottom: 0;
+    color: rgba(225,255,255,0.9);
+    display: block;
+    font-size: 5em;
+    font-weight: bold;
+    margin-top: 3em;
+    opacity: 0.76;
+    text-align: center;
+    text-shadow: 1px 1px 1px #666;
+    text-transform: uppercase;
+    width: 100%;
+}
+#pie_2 {
+    text-align:center;
+}
