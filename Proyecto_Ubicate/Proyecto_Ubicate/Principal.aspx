@@ -13,9 +13,10 @@
         <div id="wrapper">
             <section id="bloque_1">
                 <img id="logo" src=""/>
-                <h1></h1>
+                <h1>¿TE ENCUENTRAS PERDIDO?</h1>
             </section>
             <section id="bloque_2">
+                <h1>¿No sabes donde queda esta oficina?</h1>
                 <p>Sobre nuestra pagina</p>
             </section>
             <section id="bloque_3">

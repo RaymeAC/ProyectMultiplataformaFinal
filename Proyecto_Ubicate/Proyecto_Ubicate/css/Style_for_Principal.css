@@ -28,20 +28,20 @@ section {
     width: 80%;
 }
 
-#bloque1 {
-    background-image: url(https://cdn.pastemagazine.com/www/system/images/photo_albums/dota-hero-rankings-1/large/107-dota-dragon-knight.jpg?1384968217);
+#bloque_1 {
+    background-image: url(http://www.congreso.gob.pe/Docs/spa/images/congreso.jpg);
 }
 
-#bloque2 {
-    background-image: url(https://image.redbull.com/rbcom/010/2016-02-17/1331777269055_1/0012/0/0/0/1200/1800/1500/1/lord-salforis-from-heroes-of-newerth.jpg);
+#bloque_2 {
+    background-image: url(http://laindustria.s3.amazonaws.com/1495312283.jpg);
 }
 
-#bloque3 {
-    background-image: url(http://2.bp.blogspot.com/-Ofu7Np8oLo8/VCzObTtt3QI/AAAAAAAAA7I/iNjw1m8ncbY/s1600/dota2-ember-spirit.jpg);
+#bloque_3 {
+    background-image: url(http://4.bp.blogspot.com/_LSglpRg7ywk/TH0cqR_njnI/AAAAAAAAAN0/U5_gUHFIbVc/s1600/281281231KVpoGf_fs.jpg);
 }
 
-#bloque4 {
-    background-image: url();
+#bloque_4 {
+    background-image: url(http://revistaganamas.com.pe/wp-content/uploads/2016/08/SBS-local.jpg);
 }
 
 h1 {
@@ -58,6 +58,14 @@ h1 {
     text-transform: uppercase;
     width: 100%;
 }
+h2 {
+    color: rgba(225,225,225,2);
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 1em;
+    display: block;
+}
 #pie_2 {
-    text-align:center;
+    
+    text-align: center;
 }
